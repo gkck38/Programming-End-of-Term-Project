@@ -29,12 +29,6 @@ Open terminal and type:
 Make sure all `.py` files are in the same folder.
 
 ---------------------
-👨‍💻 Contributors:
----------------------
-- gkck38 (Project Owner)
-- eneskaraogluu (Collaborator)
-
----------------------
 📌 Notes:
 ---------------------
 - All modules are written in Python 3.x
