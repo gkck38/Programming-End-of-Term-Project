@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![GUI](https://img.shields.io/badge/Interface-Tkinter-green)
+![Status](https://img.shields.io/badge/Project-Finished-brightgreen)
+![Owner](https://img.shields.io/badge/Owner-gkck38-critical)
+
 README.md
 
 
