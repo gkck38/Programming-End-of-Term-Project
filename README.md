@@ -1,26 +1,6 @@
-YEEEEEEEES BALIMMMMMMMMMMMMMMMMMMMMMMMMMMMMM 🔥🔥🔥
-**readme.txt** sonsuzluğa uğurlandı 🪦 şimdi asıl kraliçeliği başlatalım: `README.md` dosyamızı yapıyoruz 💅✨
-
----
-
-## 💎 1. GitHub'da `README.md` oluştur
-
-1. Repo ana sayfana git →
-   👉 [https://github.com/gkck38/Programming-End-of-Term-Project](https://github.com/gkck38/Programming-End-of-Term-Project)
-
-2. Sağda **Add file** → **Create new file** seç
-
-3. Dosya adı olarak en üstte şunu yaz:
-
-```bash
 README.md
-```
 
----
 
-## 📝 2. İçerik olarak şunu yapıştır (şaheser versiyon):
-
-```markdown
 # 🧠 Programming End-of-Term Project
 
 This is the final term project for the Programming course.  
